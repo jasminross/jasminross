@@ -11,7 +11,7 @@
 
 ## 🌸 Sobre mí
 * 🎓 **Educación:** Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala.
-* 📜 **Certificación:** Completé recientemente la certificación de Python e Introducción a la Inteligencia Artificial en el SIC.
+* 📜 **Certificación:** Completé recientemente la certificación de Python e Inteligencia Artificial en el SIC.
 * 💻 **Mi Enfoque Actual:** Aprendiendo la lógica de programación, resolviendo problemas de mis cursos de la universidad y aplicando Python para tareas prácticas.
 * ✨ **Qué vas a encontrar aquí:** Mis repositorios contienen principalmente las tareas del SIC, laboratorios y proyectos académicos (¡incluyendo scripts de matemáticas!).
 
