@@ -17,8 +17,7 @@
 
 ---
 
-## 🌺 Mis Tecnologías (Lo que uso de verdad)
-
+## 🌺 Mis Tecnologías 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -37,5 +36,5 @@
 ---
 
 <div align="center">
-  <i>"El orden en el código refleja el orden en el pensamiento."</i> ✨
+  ✨ <i>"El orden en el código refleja el orden en el pensamiento."</i> ✨
 </div>
