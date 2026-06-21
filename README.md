@@ -2,27 +2,28 @@
   
   # 🌸✨ ¡Hola! Soy Jasmín Ross ✨🌸
   
-  ### 🎓 Estudiante de Ingeniería en Ciencias y Sistemas | USAC
+  ### 🎓 Estudiante de Ingeniería en Sistemas (USAC) & Certificada en Python (SIC)
   
-  *Apasionada por la tecnología, el desarrollo de software y la optimización de procesos de forma estructurada, limpia y ordenada.*
+  *Construyendo mis bases en ingeniería, lógica de programación y desarrollo con Python de forma limpia y ordenada.*
 
   ---
 </div>
 
 ## 🌸 Sobre mí
-* 🎓 **Educación:** Actualmente cursando la carrera de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala.
-* 💻 **Objetivo:** Construyendo bases sólidas en lógica de programación, algoritmos y estructuras de datos.
-* 🎨 **Enfoque:** Me apasiona combinar el rigor técnico de la ingeniería con la organización visual y la atención al detalle.
-* ✨ **Proyectos:** Utilizo este espacio para documentar mi progreso académico (proyectos del SIC) y mis prácticas de desarrollo personales.
+* 🎓 **Educación:** Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala.
+* 📜 **Certificación:** Completé recientemente la certificación de Python e Introducción a la Inteligencia Artificial en el SIC.
+* 💻 **Mi Enfoque Actual:** Aprendiendo la lógica de programación, resolviendo problemas de mis cursos de la universidad y aplicando Python para tareas prácticas.
+* ✨ **Qué vas a encontrar aquí:** Mis repositorios contienen principalmente las tareas del SIC, laboratorios y proyectos académicos (¡incluyendo scripts de matemáticas!).
 
 ---
 
-## 🌺 Tecnologías y Herramientas en Aprendizaje
-*(A medida que domines más lenguajes en la u, los iremos agregando aquí de forma visual)*
+## 🌺 Mis Tecnologías (Lo que uso de verdad)
 
-* **Lenguajes & Lógica:** Lógica de programación, diagramación y estructuras básicas.
-* **Control de Versiones:** Git & GitHub (Organización de repositorios y trabajo colaborativo).
-* **Entornos & Productividad:** Notion, VS Code.
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</div>
 
 ---
 
