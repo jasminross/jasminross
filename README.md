@@ -1,8 +1,8 @@
 <div align="center">
   
-  # 🎀✨ ¡Hola, soy Jasmín Ross! ✨🎀}
+  # 🎀✨ ¡Hola, soy Jasmín Ross! ✨🎀
   
-  *(¡Hola! Mi primer nombre se pronuncia Ixq'anil, pero puedes llamarme Jasmín si te es más fácil) ☕🌸*
+  *(¡Hola! Mi primer nombre es Ixq'anil, pero puedes llamarme Jasmín si te es más fácil) ☕🌸*
   ### ☕ Estudiante de Ingeniería en Sistemas (USAC) & Certificada en Python (SIC) 🥞
   
   
